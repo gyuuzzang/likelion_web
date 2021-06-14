@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>my web page</title>
+</head>
+
+<body>
+<p>단락1</p>
+<p>단락2</p>
+<p>단락3</p>
+단락1<br>
+단락2<br>
+<pre>
+단락1
+단락2
+</pre>
+<a href="https://www.naver.com/">네이버</a>
+<img src="귤랭이.jpg">
+<a href="https://images.app.goo.gl/24SucQL4FHd3rq4V6">
+<img src="귤랭이.jpg">
+</a>
+<a href="https://www.daum.net/">다음</a>
+</body>
+
+</html>
