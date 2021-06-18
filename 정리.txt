@@ -1,0 +1,56 @@
+----
+이미지 삽입 태그(이미지가 없을 때 설명)
+ _________ alt = ""
+ 
+html 구조
+<html>
+<head>
+
+</head>
+<body>
+
+</body>
+</html>
+
+Elements
+<p> 내용 </p>
+
+속성(Attributes)
+<p id=""> 내용 </p>
+
+id는 고유하다. 웹페이지가 유일하다
+
+표 - table
+ 행 tr
+ 열 td  , th
+
+list
+<ul
+<ol
+
+class란?
+css를 공통적으로 적용시킬 때
+
+<style>
+#id명
+.class명
+span inline에서 사용 색깔 지정
+</style>
+
+inline
+internal
+external
+
+링크
+<a href ="">
+
+<주석> : 역할
+자바 //, /* */  :행동
+html <!-- -->  : 몸통
+css /* */  : 스타일(옷)
+
+java
+documenr.getelementById().innerHTML
+
+
+
